@@ -394,6 +394,9 @@
   .pt-99p {
     padding-top: 99px ;
   }
+  .pd-30p{
+    padding: 30px;
+  }
   .font-montserrat {
     font-family: $font-monserrat;
   }
@@ -424,6 +427,11 @@
   .font-Dancing-bold {
     font-family: $font-dancing;
     font-weight: $font-bold
+  }
+  .bg-step {
+    background-color: #d3d3d321;
+    padding: 30px;
+    border-radius: 10px;
   }
 }
 
